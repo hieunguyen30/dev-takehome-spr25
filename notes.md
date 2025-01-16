@@ -15,7 +15,7 @@
     - [x ] `PATCH /api/request`
   - [ ] Above and Beyond
     - [ ] Batch edits
-    - [] Batch deletes
+    - [ ] Batch deletes
 - [x ] Front-end
   - [x ] Minimum Requirements
     - [x ] Dropdown component
